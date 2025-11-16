@@ -6,7 +6,7 @@
 
 ## About Me
 I'm passionate about coding, problem-solving, and building projects that combine software engineering, data science, and computer science fundamentals.  
-Currently pursuing B.Tech in Computer Science and an online Data Science & Programming program from IIT Madras.  
+Currently pursuing B.Tech in Computer Science
 
 - 🔭 Working on projects involving Python, C++, DSA, OOP, and software engineering concepts.  
 - 🌱 Learning advanced data structures, algorithms, and software development workflows.  
