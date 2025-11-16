@@ -52,8 +52,8 @@ Currently pursuing B.Tech in Computer Science
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/amrit-chetri-780a48326/))  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](amritchetri249@gmail.com)
 
 ---
 
